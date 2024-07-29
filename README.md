@@ -1,4 +1,4 @@
-# java-package
+# 
 
 ![Java CI](https://github.com/hexlet-boilerplates/java-package/workflows/Java%20CI/badge.svg)
 [![Maintainability](https://api.codeclimate.com/v1/badges/bc953fb0ab378995dab3/maintainability)](https://codeclimate.com/github/hexlet-boilerplates/java-package/maintainability)
